@@ -5,6 +5,7 @@ Commands we will be using:
 git branch
 	git branch -va
 
+git checkout
+	git checkout -b number1
 
-
-added another line
+This line was created on the number 1 branch.
