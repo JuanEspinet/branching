@@ -6,6 +6,11 @@ git branch
 	git branch -va
 
 git checkout
-	git checkout -b number1
+	git checkout -b (thing your'e working on)
 
 This line was created on the number 1 branch.
+
+stages to deployment
+git checkout gh-pages
+git merge (thing you're working on)
+git push
